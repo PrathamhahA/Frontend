@@ -1,0 +1,36 @@
+a=10;
+console.log(a+3);
+b=10.6;
+console.log(b);
+b=b+3;
+console.log(b);
+x="pratham";
+console.log(x);
+c=10;
+console.log(a);
+c=20;
+console.log(a);
+d=30;
+console.log(d);
+d=30.4;
+console.log(d);
+d="pratham";
+console.log(d);
+e=5;
+console.log(e);
+e++;
+console.log(e);
+f=3;
+console.log(f);
+f*=3.14;
+console.log(f);
+x=5;
+y=6;
+z=7;
+console.log(x,y,z);
+console.log("ragav","garg","is","coding");
+// --Printing text and number
+age=24;
+console.log("my age is ",age,"and i am young");
+// <or>
+console.log("my age is "+age+" and i am young");

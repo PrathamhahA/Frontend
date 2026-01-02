@@ -1,0 +1,14 @@
+h1{
+    color: rgb(4, 4, 241);
+    text-align: center;
+    font-size: xx-large; 
+    font-family: 'Gill Sans';background-color: brown; 
+}
+body{
+    
+    background-color: antiquewhite;
+}
+p{
+    color: rgb(98, 37, 201);
+    background-color: chartreuse;
+}

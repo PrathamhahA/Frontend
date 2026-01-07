@@ -7,4 +7,4 @@ if(5!=3){
 else{
     console.log("mello"); //falsy
 }
-console.log(typeof(a));
+console.log(typeof(a));//undefined type

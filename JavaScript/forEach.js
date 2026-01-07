@@ -4,5 +4,5 @@ brr.forEach(ele=>{
 });
 
 brr.forEach((ele,i)=>{
-    console.log(ele,i,brr);
+    console.log(ele,i);
 })

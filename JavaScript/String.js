@@ -8,3 +8,4 @@ for(let i=0;i<a.length;i++){
 for (const ele of a) {
     console.log(ele);
 }
+
